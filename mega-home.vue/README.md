@@ -1,4 +1,4 @@
-# mega-home-vue
+# mega-home.vue
 
 ## Project setup
 ```
