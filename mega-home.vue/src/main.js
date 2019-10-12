@@ -6,7 +6,6 @@ import Vuelidate from "vuelidate";
 import Vuetify from "vuetify";
 import vuetify from "@/plugins/vuetify";
 
-import "material-design-icons/iconfont/material-icons.css";
 import "vuetify/dist/vuetify.css";
 
 Vue.use(Vuelidate);
