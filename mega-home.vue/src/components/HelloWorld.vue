@@ -83,7 +83,7 @@ export default {
   methods: {
     onClick(event) {
       event.stopPropagation();
-      debugger;
+      // debugger;
     }
   },
   components: {}
