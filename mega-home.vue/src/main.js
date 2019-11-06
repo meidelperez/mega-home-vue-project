@@ -1,5 +1,5 @@
 import Vue from "vue";
-import App from "./App.vue";
+import Home from "./views/Home.vue";
 import store from "./store";
 import router from "./router";
 import Vuelidate from "vuelidate";
@@ -17,5 +17,5 @@ new Vue({
   store,
   vuetify,
   router,
-  render: h => h(App)
-}).$mount("#app");
+  render: h => h(Home)
+}).$mount("#home");
